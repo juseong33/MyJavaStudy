@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="209dafd3-4ce9-4e12-9c43-45bb5c67f46f" name="변경" comment="[260322] Initial Commit">
+    <list default="true" id="28e0a386-26ec-4957-8d33-5a68590647c0" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java_Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec01/exam01/StringEqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam01/ArrayCreabeByValueListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam02/ArrayCreateByValueListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam03/ArrayCreateByNewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam04/ArrayLengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam05/MainStringArrayArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam06/ArrayInaArrayExmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam07/ArrayReferenceObjectExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam01/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec01/exam01/VariableInitializationExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,116 +33,68 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;juseong33&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juseong33"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/juseong33/MyJavaStudy.git&quot;,
-    &quot;accountId&quot;: &quot;1580936b-0e75-4ae3-bcee-88aaadb086b3&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juseong33/MyJavaStudy.git",
+    "accountId": "1580936b-0e75-4ae3-bcee-88aaadb086b3"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3BIIzSzoCNLRpuAiA2J5BvnEsXV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3BCSuwlY2zxe6gbcUPQl9qmIbbI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SelfDevelopment/Java_Study/Java_Study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/자기개발/Java_Study/Java_Study/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "onboarding.tips.debug.path": "D:/SelfDevelopment/Java_Study/Java_Study/untitled/src/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
-    "애플리케이션.ArithmeticOperatorExample.executor": "Run",
-    "애플리케이션.AssignmentOperatorExample.executor": "Run",
-    "애플리케이션.BooleanExample.executor": "Run",
-    "애플리케이션.BreakExample.executor": "Run",
-    "애플리케이션.BreakOutterExample.executor": "Run",
-    "애플리케이션.ByteExample.executor": "Run",
-    "애플리케이션.ByteOperationExample.executor": "Run",
-    "애플리케이션.CastingExample.executor": "Run",
-    "애플리케이션.CharExample.executor": "Run",
-    "애플리케이션.CharOperationExample.executor": "Run",
-    "애플리케이션.CompareOperatorExample1.executor": "Run",
-    "애플리케이션.CompareOperatorExample2.executor": "Debug",
-    "애플리케이션.ConditionalOperationExample.executor": "Run",
-    "애플리케이션.ContinueExample.executor": "Run",
-    "애플리케이션.ContinueKeyCodeReadExample.executor": "Run",
-    "애플리케이션.DenyLogicOperatorExample.executor": "Run",
-    "애플리케이션.EscapeExample.executor": "Debug",
-    "애플리케이션.FloatDoubleExample.executor": "Run",
-    "애플리케이션.ForFloatCounterExample.executor": "Run",
-    "애플리케이션.ForMultiplicationTableExample.executor": "Run",
-    "애플리케이션.ForPrintFrom1To10Example.executor": "Run",
-    "애플리케이션.ForSum1To100Example2.executor": "Run",
-    "애플리케이션.ForSumFrom1To100Example1.executor": "Run",
-    "애플리케이션.Hello.executor": "Run",
-    "애플리케이션.IfDiceExample.executor": "Run",
-    "애플리케이션.IfElseExample.executor": "Run",
-    "애플리케이션.IfElseIfElseExample.executor": "Run",
-    "애플리케이션.IfExample.executor": "Run",
-    "애플리케이션.IncreaseDecreaseOperatorExample.executor": "Debug",
-    "애플리케이션.IntegerLiteralExample.executor": "Run",
-    "애플리케이션.KeyCodeExample.executor": "Run",
-    "애플리케이션.LogicalOperatorExample.executor": "Run",
-    "애플리케이션.LongExample.executor": "Run",
-    "애플리케이션.LongOperationExample.executor": "Run",
-    "애플리케이션.Main.executor": "Debug",
-    "애플리케이션.OperationPromotionExample.executor": "Run",
-    "애플리케이션.PrimitiveAndStringConversionExample.executor": "Run",
-    "애플리케이션.PrintfExample.executor": "Run",
-    "애플리케이션.PromotionExample.executor": "Run",
-    "애플리케이션.QStopExample.executor": "Run",
-    "애플리케이션.RunStatementExample.executor": "Run",
-    "애플리케이션.ScannerExample.executor": "Run",
-    "애플리케이션.SignOperatorExample.executor": "Run",
-    "애플리케이션.StringConcatExample.executor": "Run",
-    "애플리케이션.StringExample.executor": "Run",
-    "애플리케이션.SwitchCharExample.executor": "Run",
-    "애플리케이션.SwitchExample.executor": "Run",
-    "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
-    "애플리케이션.SwitchStringExample.executor": "Run",
-    "애플리케이션.VariableExchangeExample.executor": "Run",
-    "애플리케이션.VariableUseExample.executor": "Run",
-    "애플리케이션.WhilePrintFrom1To10Exampl.executor": "Run",
-    "애플리케이션.WhileSumFrom1To100Example.executor": "Run"
+    "애플리케이션.ArrayCreabeByValueListExample.executor": "Run",
+    "애플리케이션.ArrayCreateByNewExample.executor": "Run",
+    "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
+    "애플리케이션.ArrayInaArrayExmaple.executor": "Run",
+    "애플리케이션.ArrayLengthExample.executor": "Run",
+    "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
+    "애플리케이션.MainStringArrayArgument.executor": "Run",
+    "애플리케이션.StringEqualsExample.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -144,73 +107,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="209dafd3-4ce9-4e12-9c43-45bb5c67f46f" name="변경" comment="" />
-      <created>1773991788244</created>
+      <changelist id="28e0a386-26ec-4957-8d33-5a68590647c0" name="변경" comment="" />
+      <created>1774170423413</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1773991788244</updated>
-      <workItem from="1773992099361" duration="45000" />
-      <workItem from="1773992268841" duration="216000" />
-      <workItem from="1773992516444" duration="12269000" />
-      <workItem from="1774159367002" duration="7296000" />
-      <workItem from="1774166828532" duration="1320000" />
+      <updated>1774170423413</updated>
+      <workItem from="1774170428408" duration="4679000" />
     </task>
-    <task id="LOCAL-00001" summary="[260322] Initial Commit">
-      <option name="closed" value="true" />
-      <created>1774166638776</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1774166638776</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[260322] Initial Commit">
-      <option name="closed" value="true" />
-      <created>1774167203700</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1774167203700</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[260322] Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="[260322] Initial Commit" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sec02/exam08/CompareOperatorExample2.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/untitled/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
