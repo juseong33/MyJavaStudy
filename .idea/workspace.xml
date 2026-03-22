@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209dafd3-4ce9-4e12-9c43-45bb5c67f46f" name="변경" comment="[260322] Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BCSuwlY2zxe6gbcUPQl9qmIbbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SelfDevelopment/Java_Study/Java_Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/자기개발/Java_Study/Java_Study/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ArithmeticOperatorExample.executor": "Run",
+    "애플리케이션.AssignmentOperatorExample.executor": "Run",
+    "애플리케이션.BooleanExample.executor": "Run",
+    "애플리케이션.BreakExample.executor": "Run",
+    "애플리케이션.BreakOutterExample.executor": "Run",
+    "애플리케이션.ByteExample.executor": "Run",
+    "애플리케이션.ByteOperationExample.executor": "Run",
+    "애플리케이션.CastingExample.executor": "Run",
+    "애플리케이션.CharExample.executor": "Run",
+    "애플리케이션.CharOperationExample.executor": "Run",
+    "애플리케이션.CompareOperatorExample1.executor": "Run",
+    "애플리케이션.CompareOperatorExample2.executor": "Debug",
+    "애플리케이션.ConditionalOperationExample.executor": "Run",
+    "애플리케이션.ContinueExample.executor": "Run",
+    "애플리케이션.ContinueKeyCodeReadExample.executor": "Run",
+    "애플리케이션.DenyLogicOperatorExample.executor": "Run",
+    "애플리케이션.EscapeExample.executor": "Debug",
+    "애플리케이션.FloatDoubleExample.executor": "Run",
+    "애플리케이션.ForFloatCounterExample.executor": "Run",
+    "애플리케이션.ForMultiplicationTableExample.executor": "Run",
+    "애플리케이션.ForPrintFrom1To10Example.executor": "Run",
+    "애플리케이션.ForSum1To100Example2.executor": "Run",
+    "애플리케이션.ForSumFrom1To100Example1.executor": "Run",
+    "애플리케이션.Hello.executor": "Run",
+    "애플리케이션.IfDiceExample.executor": "Run",
+    "애플리케이션.IfElseExample.executor": "Run",
+    "애플리케이션.IfElseIfElseExample.executor": "Run",
+    "애플리케이션.IfExample.executor": "Run",
+    "애플리케이션.IncreaseDecreaseOperatorExample.executor": "Debug",
+    "애플리케이션.IntegerLiteralExample.executor": "Run",
+    "애플리케이션.KeyCodeExample.executor": "Run",
+    "애플리케이션.LogicalOperatorExample.executor": "Run",
+    "애플리케이션.LongExample.executor": "Run",
+    "애플리케이션.LongOperationExample.executor": "Run",
+    "애플리케이션.Main.executor": "Debug",
+    "애플리케이션.OperationPromotionExample.executor": "Run",
+    "애플리케이션.PrimitiveAndStringConversionExample.executor": "Run",
+    "애플리케이션.PrintfExample.executor": "Run",
+    "애플리케이션.PromotionExample.executor": "Run",
+    "애플리케이션.QStopExample.executor": "Run",
+    "애플리케이션.RunStatementExample.executor": "Run",
+    "애플리케이션.ScannerExample.executor": "Run",
+    "애플리케이션.SignOperatorExample.executor": "Run",
+    "애플리케이션.StringConcatExample.executor": "Run",
+    "애플리케이션.StringExample.executor": "Run",
+    "애플리케이션.SwitchCharExample.executor": "Run",
+    "애플리케이션.SwitchExample.executor": "Run",
+    "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
+    "애플리케이션.SwitchStringExample.executor": "Run",
+    "애플리케이션.VariableExchangeExample.executor": "Run",
+    "애플리케이션.VariableUseExample.executor": "Run",
+    "애플리케이션.WhilePrintFrom1To10Exampl.executor": "Run",
+    "애플리케이션.WhileSumFrom1To100Example.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="209dafd3-4ce9-4e12-9c43-45bb5c67f46f" name="변경" comment="" />
+      <created>1773991788244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773991788244</updated>
+      <workItem from="1773992099361" duration="45000" />
+      <workItem from="1773992268841" duration="216000" />
+      <workItem from="1773992516444" duration="12269000" />
+      <workItem from="1774159367002" duration="7296000" />
+      <workItem from="1774166828532" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="[260322] Initial Commit">
+      <option name="closed" value="true" />
+      <created>1774166638776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774166638776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[260322] Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="[260322] Initial Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sec02/exam08/CompareOperatorExample2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
