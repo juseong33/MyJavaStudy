@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e0a386-26ec-4957-8d33-5a68590647c0" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java_Study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec01/exam01/StringEqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam01/ArrayCreabeByValueListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam02/ArrayCreateByValueListExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam03/ArrayCreateByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam04/ArrayLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam05/MainStringArrayArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam06/ArrayInaArrayExmaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/exam07/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam09/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam10/AdvancedForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam01/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam02/EnumWeekExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -35,26 +27,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "juseong33"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juseong33&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/juseong33/MyJavaStudy.git",
-    "accountId": "1580936b-0e75-4ae3-bcee-88aaadb086b3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/juseong33/MyJavaStudy.git&quot;,
+    &quot;accountId&quot;: &quot;1580936b-0e75-4ae3-bcee-88aaadb086b3&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3BIIzSzoCNLRpuAiA2J5BvnEsXV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,6 +61,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -85,14 +78,18 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AdvancedForExample.executor": "Run",
+    "애플리케이션.ArrayCopyExample.executor": "Run",
     "애플리케이션.ArrayCreabeByValueListExample.executor": "Run",
     "애플리케이션.ArrayCreateByNewExample.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
     "애플리케이션.ArrayInaArrayExmaple.executor": "Run",
     "애플리케이션.ArrayLengthExample.executor": "Run",
     "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
+    "애플리케이션.EnumWeekExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.StringEqualsExample.executor": "Run"
   }
@@ -113,6 +110,10 @@
       <option name="presentableId" value="Default" />
       <updated>1774170423413</updated>
       <workItem from="1774170428408" duration="4679000" />
+      <workItem from="1774271928237" duration="34000" />
+      <workItem from="1774272125858" duration="89000" />
+      <workItem from="1774272359343" duration="618000" />
+      <workItem from="1774272992764" duration="1161000" />
     </task>
     <servers />
   </component>
