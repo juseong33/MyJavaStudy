@@ -149,7 +149,99 @@ public class Practice {
         System.out.print("그 수는 " + cnt + "자리입니다.");
     }
 
+    /**
+     * Page.46 - Q11
+     */
+    public static void Q11() {
+        System.out.print("   |");
+        for (int i = 1; i <= 9; i++)
+            System.out.printf("%3d", i);
+        System.out.println("\n---+----------------------------");
+
+        for (int i = 1; i <= 9; i++) {
+            System.out.print(i + "  |");
+            for (int j = 1; j <= 9; j++) {
+                System.out.printf("%3d", i * j);
+            }
+            System.out.println();
+        }
+    }
+
+    /**
+     * Page.46 - Q12
+     */
+    public static void Q12() {
+        System.out.print("   |");
+        for (int i = 1; i <= 9; i++)
+            System.out.printf("%3d", i);
+        System.out.println("\n---+----------------------------");
+
+        for (int i = 1; i <= 9; i++) {
+            System.out.print(i + "  |");
+            for (int j = 1; j <= 9; j++) {
+                System.out.printf("%3d", i + j);
+            }
+            System.out.println();
+        }
+    }
+
+    /**
+     * Page.46 - Q13
+     */
+    public static void Q13() {
+        Scanner sc = new Scanner(System.in);
+        int n;
+
+        System.out.println("정사각형을 출력합니다.");
+        System.out.print("변의 길이: ");
+
+        n = sc.nextInt();
+
+        for (int i = 0; i < n; i++) {
+            System.out.println("*".repeat(n));
+        }
+        sc.close();
+    }
+
+    /**
+     * Page.49 - Q14
+     */
+    public static void Q14() {
+        Scanner sc = new Scanner(System.in);
+        int n;
+
+        do {
+            System.out.print("n값: ");
+            n = sc.nextInt();
+        } while (n <= 0);
+
+        // triangleLB
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        // triangleLU
+        for (int i = 5; i > 0; i--) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        // triangleRU
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < i; j++)
+                System.out.print(" ");
+            for (int j = 0; j < n - i; j++)
+                System.out.print("*");
+            System.out.println();
+        }
+    }
+
     public static void main(String[] args) {
-        Q10();
+        Q14();
     }
 }
