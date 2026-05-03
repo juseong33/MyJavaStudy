@@ -239,9 +239,66 @@ public class Practice {
                 System.out.print("*");
             System.out.println();
         }
+
+        // triangleRB
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n - i; j++)
+                System.out.print(" ");
+            for (int j  = 0; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    /**
+     * Page.49 - Q15
+     */
+    public static void Q15() {
+        Scanner sc = new Scanner(System.in);
+        int n;
+
+        do {
+            System.out.print("n값: ");
+            n = sc.nextInt();
+        } while (n <= 0);
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < n - i; j++)
+                System.out.print(" ");
+
+            int stars = ((i - 1) * 2) + 1;
+            for (int j = 0; j < stars; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    /**
+     * Page.49 - Q16
+     */
+    public static void Q16() {
+        Scanner sc = new Scanner(System.in);
+        int n;
+
+        do {
+            System.out.print("n값: ");
+            n = sc.nextInt();
+        } while (n <= 0);
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < n - i; j++)
+                System.out.print(" ");
+
+            int cnt = ((i - 1) * 2) + 1;
+            for (int j = 0; j < cnt; j++)
+                System.out.print(i);
+            System.out.println();
+        }
     }
 
     public static void main(String[] args) {
-        Q14();
+        Q16();
     }
 }

@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28e0a386-26ec-4957-8d33-5a68590647c0" name="변경" comment="[260322] 222/733">
-      <change afterPath="$PROJECT_DIR$/src/doitAlgorithm/chap01/Max3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doitAlgorithm/chap01/Max3Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doitAlgorithm/chap01/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doitAlgorithm/chap01/practice.java" afterDir="false" />
+    <list default="true" id="28e0a386-26ec-4957-8d33-5a68590647c0" name="변경" comment="[260420_A] 21/423">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doitAlgorithm/chap01/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doitAlgorithm/chap01/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +30,12 @@
     &quot;assignee&quot;: &quot;juseong33&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/juseong33/MyJavaStudy.git&quot;,
-    &quot;accountId&quot;: &quot;1580936b-0e75-4ae3-bcee-88aaadb086b3&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juseong33/MyJavaStudy.git",
+    "accountId": "9ed4a38f-989d-411f-9dfd-9791f3e6690b"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -65,6 +61,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -79,7 +76,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.AdvancedForExample.executor": "Run",
@@ -95,6 +92,7 @@
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.Max3.executor": "Run",
     "애플리케이션.Max3Method.executor": "Run",
+    "애플리케이션.Practice.executor": "Run",
     "애플리케이션.StringEqualsExample.executor": "Run"
   }
 }]]></component>
@@ -120,7 +118,17 @@
       <workItem from="1774272992764" duration="1161000" />
       <workItem from="1774315020961" duration="608000" />
       <workItem from="1774408151532" duration="112000" />
+      <workItem from="1777784995530" duration="2055000" />
     </task>
+    <task id="LOCAL-00001" summary="[260420_A] 21/423">
+      <option name="closed" value="true" />
+      <created>1776689905278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776689905278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[260420_A] 21/423" />
+    <option name="LAST_COMMIT_MESSAGE" value="[260420_A] 21/423" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
